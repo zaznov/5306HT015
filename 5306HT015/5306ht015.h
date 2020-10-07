@@ -5,7 +5,7 @@
   * @version V1.3.0
   * @date    13/07/2020
   * @brief   This file contains all the functions prototypes for work with 
-  temperature sensor 5306HT015 of Disain Centre Soyuz. (Functional analog of 
+  temperature sensor 5306HT015 of Design Centre Soyuz. (Functional analog of 
   DS18D20) For connection 1-Wire protocol is used. Sensor provides 12-bit Celsius 
   temperature. Operation temperature range: -55°C to +125°C.
   To view Datasheet visit:
